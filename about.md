@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## 关于作者
+
 
 ### Specialties:
 
@@ -31,17 +31,13 @@ This impressive array of certifications highlights Dilanka's continuous pursuit 
 
 ### Contact:
 
-* blog:[www.waylau.com](http://www.waylau.com)
-* gmail: [waylau521@gmail.com](mailto:waylau521@gmail.com)
-* weibo: [waylau521](http://weibo.com/waylau521)
-* twitter: [waylau521](https://twitter.com/waylau521)
-* csdn: [kkkloveyou](http://blog.csdn.net/kkkloveyou)
-* oschina: [waylau](http://my.oschina.net/waylau)
+* blog:[H3xL00m.github.io](http://H3xL00m.github.io)
+* gmail: [h3xl00m@gmail.com](mailto:h3xl00m@gmail.com)
+* X: [H3xL00m](https://twitter.com/H3xL00m)
+* LinkedIn: [H3xL00m] (https://www.linkedin.com/in/h3xl00m/)
 
 ### Open source:
 
-* Github : [waylau](https://github.com/waylau)
+* Github : [H3xL00m](https://github.com/H3xL00m)
 
 ----
-
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/2117486514/c3e417d3/1.png)](http://weibo.com/u/2117486514?s=6uyXnP)
