@@ -1,104 +1,93 @@
-# Nightfall
+# jekyll-bootstrap-blog
 
-Nightfall is a minimal dark theme for Hugo
+A theme for Jekyll to build a personal blog, based on [Bootstrap 3](http://getbootstrap.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/) and [jQuery](http://jquery.com/).  
 
-![Hugo Theme Nightfall](https://raw.githubusercontent.com/LordMathis/hugo-theme-nightfall/main/images/screenshot.png)
-![Hugo Theme Nightfall Posts](https://raw.githubusercontent.com/LordMathis/hugo-theme-nightfall/main/images/screenshot_2.png)
-![Hugo Theme Nightfall Single](https://raw.githubusercontent.com/LordMathis/hugo-theme-nightfall/main/images/screenshot_3.png)
+* Clean
+* Responsive
+* Mobile First
+* Syntax Highlighting 
+* Jekyll 3 Supported
+* SEO Friendly
 
-## Get the theme
+## Screenshots
 
-Import as [hugo module](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme) in `config.toml`:
-```toml
-[module]
-[[module.imports]]
-  path = 'github.com/LordMathis/hugo-theme-nightfall'
+![](img/20161203-screenshots-01.png)
+
+![](img/20161203-screenshots-02.png)
+
+## Demo
+
+You can see the theme running on [my blog](https://waylau.com/).
+
+<!-- more -->
+
+## Usage
+
+### Installation
+
+- Start by cloning the github repo using `git clone`
+- You must have jekyll installed to run this, use `gem install jekyll` for installing it
+- Use `jekyll serve` to run the site live.
+
+### Configration
+
+```
+# Site settings
+title: Way Lau's Personal Site
+name: Way Lau's Personal Site
+url: "http://www.waylau.com"
+email: waylau521@gmail.com
+description: Way Lau's Personal Site | www.waylau.com.
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: waylau521
+github_username:  waylau
+weibo_username: waylau521
+facebook_username: waylau521
+duoshuo_username: waylau
+baidushare_id: 89860593
+baidutongji_id: 28cf5fa48a599e39c5cc760931de942f
+rss_url: "/feed.xml"
+logo_image: "/images/logo.png"
+# Build settings
+gems: [jekyll-paginate]
+markdown: rdiscount
+highlighter: pygments
+permalink: /:title/
+paginate: 8
+paginate_path: page/:num
 ```
 
-OR
+### Creating Posts
 
-Import manually:
-1. `git clone https://github.com/LordMathis/hugo-theme-nightfall themes/nightfall`
-2. Add `theme = "nightfall"` in your `config.toml`:
+For creating posts add this snippet in front of your post's markdown file:
 
-## Configuration
-
-For full example chech `exampleSite/config.toml`
-
-Add these params to you `config.toml`
-
-```toml
-[params]
-user = "hello"
-hostname = "gohugo.io"
-
-  [params.author]
-    name = "Mr Hugo"
-    email = "hugo@example.com
+```
+---
+layout: post
+title:  "your title here"
+tags: your tags here
+class: post
+---
 ```
 
-### Social links
+Add content below this and save the post in `_posts` directory (you will have to create it).
 
-You can also add social links. To use icons for social links, you also need to add the link to icon font to custom-head.html
+### Page excluded from top bar nav
 
-```toml
-[[params.social]]
-key = 0
-name = "github"
-url = "https://github.com/gohugoio"
-icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
+By default, created pages will show on the top bar nav. If you want page excluded from top bar nav, you just add`excludedFromNav: true` in the page as below: 
 
-[[params.social]]
-key = 1
-name = "twitter"
-url = "https://www.example.com"
-
-[[params.social]]
-key = 2
-name = "mastodon"
-url = "https://www.example.com"
-rel = "me"  # You can also add rel to social link
-
-[[params.social]]
-key = 3
-name = "email"
-url = "mailto:email@example.com"
+```
+---
+layout: page
+title: Labs
+permalink: /labs/
+excludedFromNav:true
+---
 ```
 
-### Post metadata
+## License
 
-Post metadata such as tags, published date and reading time are rendered on post pages. You can turn off showing published date and reading time globally in `[params]` section of your config
+Feel free to fork and contribute to the project, just create a pull request.
 
-```toml
-[params]
-published = false
-readingTime = false
-```
+Open sourced under [MIT License](LICENSE) 
 
-You can also disable metadata on a specific page by adding `showMetadata = false` to front matter.
-
-
-### Menu
-
-To add a menu item add `[[menu.header]]` item to `config.toml`. For example:
-
-```toml
-[menu]
-  [[menu.header]]
-    name = "posts"
-    weight = 0
-    url = "/posts"
-```
-
-### Custom Head
-
-To use custom icons, css, js or other resources create `layouts/partials/custom-head.html` and add your links there.
-
-### Custom footer
-
-You can customize the text displayed in footer with `footerHtml` in `[[params]]` section. The value will be rendered inside `<span>` tag. For example:
-
-```toml
-[params]
-footerHtml = 'CC-0, Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme'
-```
