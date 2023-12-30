@@ -1,4 +1,4 @@
-title: "João Pedro Dias"
+title: "Dilanka Kaushal Hewage (H3xL00m)"
 url: "https://H3xL00m.github.io"
 baseurl: ""
 username: h3xl00m
@@ -30,15 +30,15 @@ nav:
     link: "/contact"
 
 social:
-  - name: twitter/jpd1as
+  - name: twitter/h3xl00m
     icon: ri-twitter-line
-    url: https://twitter.com/jpd1as
+    url: https://twitter.com/h3xl00m
   - name: mastodon/h3xl00m
     icon: ri-mastodon-line
     url: https://mastodon.social/@h3xl00m
-  - name: linkedin/joaopdias
+  - name: linkedin/hexl00m
     icon: ri-linkedin-box-line
-    url: https://www.linkedin.com/in/joaopdias/
+    url: https://www.linkedin.com/in/h3xl00m/
   - name: 500px/h3xl00m
     icon: ri-camera-line
     url: https://500px.com/h3xl00m
@@ -47,7 +47,7 @@ social:
     url: https://github.com/h3xl00m
   - name: gitlab/joaopdias
     icon: ri-gitlab-line
-    url: https://gitlab.com/joaopdias
+    url: https://gitlab.com/hexl00m
   - name: speakerdeck/jpd1as
     icon: ri-slideshow-line
     url: https://speakerdeck.com/h3xl00m
