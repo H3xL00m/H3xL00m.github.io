@@ -1,25 +1,39 @@
 ---
 layout: default
 title: "./h3xl00m/"
-description: "Engineer. Developer. Photography enthusiast. Researching on the thin line between hardware and software."
+description: "Malware Analyst. Red Team Penetration Tester. Photography enthusiast. Researching on the thin line between hardware and software."
 ---
 
 ## About Me
 
-<img class="profile-picture" src="images/profile.png" alt="Profile picture">
+<img class="profile-picture" src="" alt="Profile picture">
 <iframe src="https://github.com/sponsors/h3xl00m/button" title="Sponsor h3xl00m" style="border: 0; border-radius: 6px;/*! background-color: beige; */" class="sponsor" width="114" height="32"></iframe>
 
 {% highlight bash %}
 $ whoami
-h3xl00m: phd. engineer. developer. photography enthusiast.
+h3xl00m: Malware Analyst. Red Team Penetration Tester. Photography enthusiast.
 {% endhighlight %}
 
-João Pedro Dias is part researcher on the thin line between hardware and software, and part Software Engineer. He has a BSc+MSc in [Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2018&pv_origem=CUR&pv_tipo_cur_sigla=MI&pv_curso_id=742) by the [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL). He earned his Ph.D. in Informatics Engineering fromFEUP in 2022, while receiving a grant from the FCT. He maintains a Software Engineer position as a day-to-day job at Kuehne+Nagel. Since 2017, he has been an Invited Assistant Professor at FEUP, where he teaches courses in Software Engineering, Operating Systems, among others. He has (co-)supervised  +5 MSc dissertations and contributed to two projects at LIACC and INESC TEC. His research focuses on Internet-of-Things systems, software engineering, security and privacy, and his work has been published in several top-tier conferences and journals ([h-index 16, i10-index 22](https://scholar.google.com/citations?user=sQ2vKI0AAAAJ)). In his free time, he enjoys participating in Capture The Flag competitions, experimenting with Software-defined Radio, building web applications, reverse-engineering hardware, and photographing while wandering in nature.
+Dilanka Kaushal Hewage is a dedicated Malware Analyst and Red Team Penetration Tester, currently serving as an Application Security Engineer at Dubai Health Authority. Dilanka, holding a BSc in Computer Science and pursuing an MSc in Cyber Security, is not only immersed in academia but is also a passionate participant in Capture The Flag (CTF) competitions, showcasing his problem-solving prowess in the cybersecurity realm.
+
+In addition to his academic pursuits, Dilanka has earned several prestigious certifications, demonstrating his commitment to excellence in cybersecurity. These certifications, arranged from foundational to advanced levels, include:
+
+    eJPT (eLearnSecurity Junior Penetration Tester)
+    CEH Master (Certified Ethical Hacker Master)
+    eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester v2)
+    CRTP (Certified Red Team Professional)
+    CRTE (Certified Red Team Expert)
+    CRTO (Certified Red Team Operator)
+    OSCP (Offensive Security Certified Professional)
+    eCPTXv2 (eLearnSecurity Certified Penetration Tester eXtreme v2)
+
+This impressive array of certifications highlights Dilanka's continuous pursuit of knowledge and expertise, making him a valuable asset in the cybersecurity community. Connect with Dilanka to explore cybersecurity, discuss CTF strategies, and benefit from his extensive knowledge and practical experience. Embark on a cybersecurity journey with Dilanka, where academic excellence, hands-on experience, and a passion for CTFs converge for a comprehensive understanding of the cybersecurity landscape.
 
 ## Work
 
-- Software Engineer @ [Kuehne+Nagel](https://kuehne-nagel.com)
-- Invited Assistant Professor @ [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
+- Application Security Engineer @ [Dubai Health - Dubai]()
+- Red Team Penetration Tester @ [AIX Investment Group, Burj Khalifa - Dubai]()
+- Red Team Operator @ [DOD - Sri Lanka]
 
 ## Research Interests
 
