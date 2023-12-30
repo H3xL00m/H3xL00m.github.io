@@ -26,19 +26,15 @@ A theme for Jekyll to build a personal blog, based on [Bootstrap 3](http://getbo
 
 ```
 # Site settings
-title: Way Lau's Personal Site
-name: Way Lau's Personal Site
-url: "http://www.waylau.com"
-email: waylau521@gmail.com
-description: Way Lau's Personal Site | www.waylau.com.
+title: H3xl00m's Personal Site
+name: H3xl00m's Personal Site
+url: "http://H3xl00m.github.io"
+email: H3xl00m@gmail.com
+description: H3xl00m's Personal Site.
 baseurl: "" # the subpath of your site, e.g. /blog/
-twitter_username: waylau521
-github_username:  waylau
-weibo_username: waylau521
-facebook_username: waylau521
-duoshuo_username: waylau
-baidushare_id: 89860593
-baidutongji_id: 28cf5fa48a599e39c5cc760931de942f
+twitter_username: H3xl00m
+github_username:  H3xl00m
+LinkedIn_username: H3xl00m
 rss_url: "/feed.xml"
 logo_image: "/images/logo.png"
 # Build settings
