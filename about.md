@@ -8,17 +8,26 @@ permalink: /about/
 
 ### Specialties:
 
-* J2EE web programming development.
-* Flex/AS3 programming development.
-* HTML5/JS/CSS/SVG programming development.
-* Self-educated/Self-training.
+Dilanka Kaushal Hewage is a dedicated Malware Analyst and Red Team Penetration Tester, currently serving as an Application Security Engineer at Dubai Health Authority. Dilanka, holding a BSc in Computer Science and pursuing an MSc in Cyber Security, is not only immersed in academia but is also a passionate participant in Capture The Flag (CTF) competitions, showcasing his problem-solving prowess in the cybersecurity realm.
+
+In addition to his academic pursuits, Dilanka has earned several prestigious certifications, demonstrating his commitment to excellence in cybersecurity. These certifications, arranged from foundational to advanced levels, include:
+
+* eJPT (eLearnSecurity Junior Penetration Tester)
+* CEH Master (Certified Ethical Hacker Master)
+* eCPPTv2 (eLearnSecurity Certified Professional Penetration Tester v2)
+* CRTP (Certified Red Team Professional)
+* CRTE (Certified Red Team Expert)
+* CRTO (Certified Red Team Operator)
+* OSCP (Offensive Security Certified Professional)
+* eCPTXv2 (eLearnSecurity Certified Penetration Tester eXtreme v2)
+
+This impressive array of certifications highlights Dilanka's continuous pursuit of knowledge and expertise, making him a valuable asset in the cybersecurity community. Connect with Dilanka to explore cybersecurity, discuss CTF strategies, and benefit from his extensive knowledge and practical experience. Embark on a cybersecurity journey with Dilanka, where academic excellence, hands-on experience, and a passion for CTFs converge for a comprehensive understanding of the cybersecurity landscape.
 
 ### Hobby:
 
-* Riding mountain bike.
+* Gaming - War Commander 
 * Go travelling far away.
 * Watching science-fiction movies.
-* Learning English.
 
 ### Contact:
 

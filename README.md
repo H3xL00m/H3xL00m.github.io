@@ -1,4 +1,4 @@
-# jekyll-bootstrap-blog
+# H3xl00m-blog
 
 A theme for Jekyll to build a personal blog, based on [Bootstrap 3](http://getbootstrap.com/), [Font Awesome](http://fortawesome.github.io/Font-Awesome/) and [jQuery](http://jquery.com/).  
 
@@ -11,13 +11,6 @@ A theme for Jekyll to build a personal blog, based on [Bootstrap 3](http://getbo
 
 ## Screenshots
 
-![](img/20161203-screenshots-01.png)
-
-![](img/20161203-screenshots-02.png)
-
-## Demo
-
-You can see the theme running on [my blog](https://waylau.com/).
 
 <!-- more -->
 
